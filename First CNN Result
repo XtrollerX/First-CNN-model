@@ -1,0 +1,5 @@
+Epoch [0], val_loss: 0.1093, val_acc: 0.9674
+Epoch [1], val_loss: 0.1083, val_acc: 0.9670
+Epoch [2], val_loss: 0.1088, val_acc: 0.9660
+Epoch [3], val_loss: 0.1069, val_acc: 0.9687
+Epoch [4], val_loss: 0.1075, val_acc: 0.9684
